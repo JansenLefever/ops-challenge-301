@@ -43,6 +43,3 @@ while [ $input != 4 ]
 done
 
 #End
-
-
-

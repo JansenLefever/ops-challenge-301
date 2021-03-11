@@ -2,7 +2,7 @@
 
 num=0
 
-while [ $num -lt 4 ]  
+while [ $num != 4 ]  
     do 
 
     echo "1) Hello World 2) Ping this computer 3) Ip info 4) Exit"
