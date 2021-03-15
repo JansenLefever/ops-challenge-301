@@ -2,7 +2,7 @@
 
 # Author: Jansen Lefever
 # Class: 301D2 Ops Challenge 6
-# Purpose:
+# Purpose: Creating, appending, printing to the screen and removing a file.
 
 import os
 
